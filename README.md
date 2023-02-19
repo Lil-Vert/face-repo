@@ -1,8 +1,6 @@
 #the file
 
+all
 
+book
 
-face
-
-
-end
